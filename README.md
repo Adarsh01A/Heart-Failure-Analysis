@@ -2,14 +2,6 @@
 
 The dashboard summarizes survival status across various patient attributes using data visualizations in Tableau. Charts include histograms, box plots, and scatter plots to highlight survival trends focusing on the relationship between patient characteristics and survival outcomes.
 
-## Dataset Summary
-
-- **Total Individuals**: 299  
-- **Total Deaths**: 96  
-- **Total Males**: 194  
-- **Total Females**: 105  
-- **Average Age**: 60.83 years
-
 ## Key Insights Visualized
 
 ### 1. Medical Conditions vs Survival Status
@@ -40,4 +32,7 @@ Each plot is color-coded by survival outcome for better interpretation.
 ### 4. Box and Scatter Plots
 
 - **Box Plot (Age by Sex and Survival)**: Compares age distribution for males and females based on survival.  
-- **Scatter Plot (Age vs Follow-up Time)**: Highlights clusters of survival and death events across time.  
+- **Scatter Plot (Age vs Follow-up Time)**: Highlights clusters of survival and death events across time.
+
+## Link of Tableau Public : 
+https://public.tableau.com/views/Heart_Failure_17513058635970/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
